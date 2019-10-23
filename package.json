@@ -1,6 +1,6 @@
 {
-  "name": "vux-fork-zlt",
-  "version": "2.9.4.1",
+  "name": "vux",
+  "version": "2.9.5",
   "main": "index.js",
   "description": "Mobile web UI based on Vue and WeUI",
   "keywords": [
@@ -19,7 +19,7 @@
   "author": "airyland <airyland@qq.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/airyland/vux"
+    "url": "https://github.com/declan1314/vux"
   },
   "license": "MIT",
   "scripts": {
